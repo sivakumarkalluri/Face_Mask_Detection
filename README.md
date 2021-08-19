@@ -51,5 +51,21 @@
 <code> pip3 install -r requirements.txt</code>
 <h2 ><div style="float: left;"><img src="https://img-premium.flaticon.com/png/128/3468/premium/3468569.png?token=exp=1629368039~hmac=dd57a2cae17190248b97acb810068492" width="40" height="40"> Project Execution</div></h2><hr>
 
+#### Step 1: Open Command Prompt
+- Open command prompt in your PC/Laptop and follow the remaining steps by running those commands.
+#### Step 2: Move to the Project Directory
+Give the directory path where you have downloaded the project<br><br>
+<code> cd Face_mask_detection </code>
+#### Step 3: Training the Mask detector model
+<code> python train_mask_detector.py </code>
+#### Step 4: Capturing the live video stream and detecting the face mask
+<code> python detect_mask_video.py </code><br><br><br>
+<h2 text-align="center"><div style="float: left;"><img src="https://image.flaticon.com/icons/png/128/943/943800.png" width="40" height="40">  Results</div></h2><hr>
+
+![Alt text](plot.png?raw=true "Title")
+<br><br>
+<h2 text-align="center"><div style="float: left;"><img src="https://image.flaticon.com/icons/png/128/410/410925.png" width="40" height="40"> Output</div></h2><hr>
+
+
 
 
