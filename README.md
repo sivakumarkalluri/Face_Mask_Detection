@@ -2,7 +2,7 @@
 
 <p align="justify">COVID-19 pandemic has rapidly affected our day-to-day life disrupting the world trade and movements. Wearing a protective face mask has become a new normal. In the near future, many public service providers will ask the customers to wear masks correctly to avail of their services. Therefore, face mask detection has become a crucial task to help global society. This paper presents a simplified approach to achieve this purpose using some basic Machine Learning packages like TensorFlow, Keras, OpenCV and MobileNet. The proposed method detects the face from the image correctly and then identifies if it has a mask on it or not. As a surveillance task performer, it can also detect a face along with a mask in motion. The method attains accuracy up to 98% on a dataset. We explore optimized values of parameters using the Sequential Convolutional Neural Network model to detect the presence of masks correctly without causing over-fitting.</p><br>
  
-<h2 text-align="center"><div style="float: left;"><img src="https://img-premium.flaticon.com/png/128/4319/premium/4319207.png?token=exp=1629357704~hmac=b029136115e3137212d8a6f6980942cb" width="45" height="45"> TechStack/framework used</div></h2><hr>
+<h2 text-align="center"><div style="float: left;"><img src="https://img-premium.flaticon.com/png/128/4319/premium/4319207.png?token=exp=1629357704~hmac=b029136115e3137212d8a6f6980942cb" width="40" height="40"> TechStack/framework used</div></h2><hr>
 
 - Python
 - OpenCV
@@ -41,8 +41,15 @@
 
 <h2 text-align="center"><div style="float: left;"><img src="https://img-premium.flaticon.com/png/128/2482/premium/2482499.png?token=exp=1629366162~hmac=33f74fbfb7f3d2766a00ee8450f38b55" width="45" height="45"> Downloading the Project</div></h2><hr>
 
-#### Step 1: Cloning the repository
-<code> git clone </code>
+#### Step 1: Open Command Prompt
+- Open command prompt in your PC/Laptop and follow the remaining steps by running those commands.
+#### Step 2: Cloning the repository 
+<code> git clone https://github.com/sivakumarkalluri/Face_mask_detection.git </code>
+#### Step 3: Change the directory to downloaded repository folder
+<code> cd Face_mask_detection</code>
+#### Step 4: Installing the required libraries
+<code> pip3 install -r requirements.txt</code>
+<h2 ><div style="float: left;"><img src="https://img-premium.flaticon.com/png/128/3468/premium/3468569.png?token=exp=1629368039~hmac=dd57a2cae17190248b97acb810068492" width="40" height="40"> Project Execution</div></h2><hr>
 
 
 
