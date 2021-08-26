@@ -66,6 +66,8 @@ Give the directory path where you have downloaded the project<br><br>
 <br><br>
 <h2 text-align="center"><div style="float: left;"><img src="https://image.flaticon.com/icons/png/128/410/410925.png" width="40" height="40"> Output</div></h2><hr>
 
+![Alt text](output_1.jpg?raw=true "Title")
+
 
 
 
